@@ -1,0 +1,11 @@
+{
+  "name": "acceptvite",
+  "version": "0.01",
+  "description": "Accept Vite on everywhere!",
+  "dependencies": {
+    "@vite/vitejs": "^2.3.18",
+    "@vite/vitejs-http": "^2.3.18",
+    "bignumber.js": "^9.0.2",
+    "lmdb": "^2.4.5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "vite": {
+    "nodeAddress": "https://node-vite.imal.dev/http"
+  },
+  "gateway": {
+    "payTimeout": 120,
+    "allowExternalCallbacks": false,
+    "defaultCallbackUrl": "http://localhost:1270"
+  },
+  "server": {
+    "port": 8080,
+    "authorizedPort": 2503
+  },
+  "paymentWallet": {
+    "mnemonics": ""
+  }
+}
