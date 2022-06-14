@@ -112,3 +112,5 @@ process.on('SIGINT', async () => {
   await nodeDb.put('waitingPayments', waitingPayments)
   console.log(nodeDb.get('waitingPayments'))
 })
+
+console.log('acceptVite ready!')
